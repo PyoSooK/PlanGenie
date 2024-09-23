@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# 환경 설정 파일
+.env
+*.venv
+
+#IDE file
+.vscode/
+.idea/
+*.iml
+
+#데이터 파일
+data/*.csv
+data/raw/*
